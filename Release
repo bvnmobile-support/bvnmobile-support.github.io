@@ -3,9 +3,9 @@ Label: Apple-Support
 Suite: stable
 Version: 1.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64
+Architecture: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Apple-Support
 MD5Sum:
- ce1d87465acbd30011dfa6e7070ea77a 1040245 Packages
- 43a36206dae1a19f2bacec94b1cbf6f4 233783 Packages.bz2
+ f3b540f78fd75d1f1bac8580e05a4287 1038537 Packages
+ 68c094b387da44e0eceacfb7b6ae3a68 233110 Packages.bz2
