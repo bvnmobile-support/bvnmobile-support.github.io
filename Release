@@ -1,0 +1,11 @@
+Origin: BVN MOBILE SERVICES
+Label: Apple-Support
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: Apple-Support
+MD5Sum:
+ ce1d87465acbd30011dfa6e7070ea77a 1040245 Packages
+ 43a36206dae1a19f2bacec94b1cbf6f4 233783 Packages.bz2
